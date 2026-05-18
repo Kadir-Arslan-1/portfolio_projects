@@ -1,0 +1,12 @@
+numpy
+pandas
+plotly
+matplotlib
+iso3166
+django-iso3166
+seaborn
+scikit-learn
+scipy
+statsmodels
+census
+us
