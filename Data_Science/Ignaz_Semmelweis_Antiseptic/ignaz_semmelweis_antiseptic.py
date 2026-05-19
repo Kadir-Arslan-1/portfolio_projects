@@ -142,7 +142,7 @@ fig.update_yaxes(
     secondary_y=True
 )
 
-fig.write_html("interactive_graphs/total_births_and_deaths_until_1847.html")
+# fig.write_html("interactive_graphs/total_births_and_deaths_until_1847.html")
 
 # fig.show()
 
@@ -366,7 +366,7 @@ fig.update_traces(
     )
 )
 
-fig.write_html("interactive_graphs/boxplot_before_and_after_handwashing.html")
+# fig.write_html("interactive_graphs/boxplot_before_and_after_handwashing.html")
 
 # fig.show()
 

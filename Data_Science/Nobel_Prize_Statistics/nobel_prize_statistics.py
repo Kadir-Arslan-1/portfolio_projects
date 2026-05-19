@@ -1115,6 +1115,6 @@ fig.update_layout(
     hoverlabel=dict(bgcolor="white", font_size=13)
 )
 
-fig.write_html("interactive_graphs/linear_model_plot_category.html")
+# fig.write_html("interactive_graphs/linear_model_plot_category.html")
 
 # fig.show()
